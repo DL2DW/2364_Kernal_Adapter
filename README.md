@@ -22,12 +22,16 @@ The following sizes can be used as EPROM:
 The required components are only:
 
 - 1x 28pin DIP IC socket
-
 - 3x resistors 10k 0207 THT
-
 - 2x 12pin precision header
 
-  
+
+
+## PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/Simple_2564_Kernal_Adapter.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/Simple_2564_Kernal_Adapter.html)
 
 
 
