@@ -1,6 +1,6 @@
-# Simple 2564 Kernal Adapter
+# Simple 2364 Kernal Adapter
 
-![](https://github.com/DL2DW/2564_Kernal_Adapter/blob/main/Images/2564_Kernal_Adapter.jpg)
+![](https://github.com/DL2DW/2564_Kernal_Adapter/blob/main/Images/2364_Kernal_Adapter.jpg)
 
 
 
